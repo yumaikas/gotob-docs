@@ -1,6 +1,6 @@
 # Tips and tricks for working with gotoB.js
 
-This is intended to be a tutorial for [gotob.js](https://github.com/fpereiro/gotoB), currently covering the 1.2.x series.
+This is intended to be some supplemental material for [gotob.js](https://github.com/fpereiro/gotoB), currently covering the 1.2.x series.
 
 ## Pronounciation.
 
