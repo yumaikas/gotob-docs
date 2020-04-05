@@ -12,7 +12,7 @@ Before you start using gotoB, I recommend at least learning [dale](https://githu
 
 ## Reading the Source
 
-If you do decide to read the gotoB source, you will also want to learn the basics of [teishi](https://github.com/fpereiro/teishi) and [recalc](https://github.com/fpereiro/recalc), as there feature 
+If you do decide to read the gotoB source, you will also want to learn the basics of [teishi](https://github.com/fpereiro/teishi) and [recalc](https://github.com/fpereiro/recalc), as they feature in the source code quite a bit.
 
 ## Some edge cases
 
